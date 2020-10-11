@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Android-Pagination-with-RecyclerView.iml" filepath="$PROJECT_DIR$/Android-Pagination-with-RecyclerView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-Pagination-with-RecyclerView-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-Pagination-with-RecyclerView-app.iml" group="Android-Pagination-with-RecyclerView/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/KinckProject-Android-Pagination-with-RecyclerView.iml" filepath="$PROJECT_DIR$/.idea/modules/KinckProject-Android-Pagination-with-RecyclerView.iml" group="Android-Pagination-with-RecyclerView" />
       <module fileurl="file://$PROJECT_DIR$/Pagination.iml" filepath="$PROJECT_DIR$/Pagination.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
